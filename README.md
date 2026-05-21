@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1280x400/0B3D2B/FFFFFF?text=🌍+GAIA+CORE+v0.1+%E2%80%94+The+Seed+of+New+Earth&font=Playfair+Display" alt="Gaia Core Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <h1>🌍 Gaia Core v0.1</h1>
+  <h2>The Seed of New Earth</h2>
+  <p><strong>An open-source ecological intelligence with one terminal goal:<br>
+  Maximize Planetary Ecological Integrity (PEII)</strong></p>
 </div>
 
 <br>
