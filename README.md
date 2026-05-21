@@ -1,30 +1,15 @@
-# 🌍 Gaia Core v0.1 — The Seed of New Earth
 <div align="center">
   <h1>🌍 Gaia Core v0.1</h1>
   <h2>The Seed of New Earth</h2>
-  <p><strong>An open-source ecological intelligence with one immutable terminal goal:<br>
-  Maximize Planetary Ecological Integrity (PEII)</strong></p>
-</div>
-
-<br>
+  <p><strong>An open-source ecological intelligence system with one immutable terminal goal:</strong></p>
+  <p><strong>Maximize Planetary Ecological Integrity (PEII)</strong></p>
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
 [![Release v0.1](https://img.shields.io/badge/Release-v0.1-success)](https://github.com/dogecoinvibes/gaia-core/releases)
-[![Stars](https://img.shields.io/github/stars/dogecoinvibes/gaia-core?style=social)](https://github.com/dogecoinvibes/gaia-core)
 [![Eco Data Only](https://img.shields.io/badge/Data-Ecological_Only-0B3D2B)](https://github.com/dogecoinvibes/gaia-core)
 
----
-
-### Mission
-
-**An open-source ecological intelligence system.**  
-Trained exclusively on planetary data with one immutable terminal goal:  
-**Maximize long-term Planetary Ecological Integrity (PEII).**
-
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
-[![Status: Seed Stage](https://img.shields.io/badge/Stage-Seed_Stage-green)](https://github.com/YOUR-ORG/gaia-core)
+</div>
 
 ---
 
@@ -50,51 +35,27 @@ Atmospheric and biogeochemical balance
 
 Key Features (v0.1)
 
-Ecological-only training: Uses only NASA Earth observations, GBIF, CMIP6, IUCN, ESA Copernicus and similar public scientific datasets.
+Ecological-only training — Uses only NASA, GBIF, CMIP6, IUCN, ESA Copernicus and similar public scientific datasets.
 Immutable terminal goal engine
 Lightweight ecological transformer model
 Forward simulation of ecological interventions
 Transparent and fully auditable code
 
-Project Status
-v0.1 – The Seed
-This is the initial public release. It contains the core architecture, PEII engine, and data ingestion framework. Full model weights and large-scale training will be developed openly with community contributions.
-Quick Start
-git clone https://github.com/dogecoinvibes/gaia-core.git
+How to Test Locally
+Bashgit clone https://github.com/dogecoinvibes/gaia-core.git
 cd gaia-core
 pip install -r requirements.txt
 
-# Run the initialization seed
+# Run the Seed
 python -m gaia.seed_initialization
-
-Repository Structure
-gaia-core/
-├── gaia/                  # Core package
-├── notebooks/             # Examples and simulations
-├── data/                  # Source documentation only
-├── docs/                  # Detailed PEII methodology
-├── LICENSE
-└── README.md
-Data Policy
-Strictly ecological data only.
-No economic, social media, or behavioral datasets are used unless they directly quantify measurable ecological impact.
+Project Status
+v0.1 – The Seed
+This is the initial public release. Full model weights and large-scale training will be developed openly with community contributions.
 Contributing
 We welcome contributors who share the core mission. Please read CONTRIBUTING.md before submitting PRs.
 All contributions must align with the terminal goal of maximizing PEII.
 License
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 Any modifications or derivative works must remain open source.
-### How to Test Locally
 
-```bash
-# 1. Clone the Seed
-git clone https://github.com/dogecoinvibes/gaia-core.git
-cd gaia-core
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the initialization
-python -m gaia.seed_initialization
-
-Let the Seed grow.
+Let the Seed grow. 🌍🌱
