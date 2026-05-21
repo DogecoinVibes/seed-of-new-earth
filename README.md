@@ -41,6 +41,7 @@ Immutable terminal goal engine
 Lightweight ecological transformer model
 Forward simulation of ecological interventions
 Transparent and fully auditable code
+- [Detailed PEII Methodology](docs/peii_methodology.md)
 
 How to Test Locally
 Bashgit clone https://github.com/dogecoinvibes/gaia-core.git
