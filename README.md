@@ -22,3 +22,9 @@ It does **not** optimize for economic growth, political agendas, or short-term h
 
 ```python
 TERMINAL_GOAL = "MAXIMIZE_PLANETARY_ECOLOGICAL_INTEGRITY_INDEX (PEII)"
+git clone https://github.com/DogecoinVibes/gaia-core.git
+cd gaia-core
+pip install -r requirements.txt
+
+# Run the Seed
+python -m gaia.seed_initialization
