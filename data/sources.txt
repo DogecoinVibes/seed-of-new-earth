@@ -1,0 +1,29 @@
+# Gaia Core v0.1 - Approved Ecological Data Sources
+# Only these types of public datasets are allowed
+
+NASA Earth Observing System (EOS)
+- Earthdata.nasa.gov
+- Harmonized Landsat and Sentinel-2 (HLS)
+
+GBIF - Global Biodiversity Information Facility
+- gbif.org
+
+CMIP6 Climate Model Ensemble
+- esgf-node.llnl.gov
+
+ESA Copernicus Programme
+- copernicus.eu
+
+NOAA
+- coral reef watch, ocean data
+
+IUCN Red List of Threatened Species
+- iucnredlist.org
+
+Other allowed:
+- SoilGrids (ISRIC)
+- Global Forest Watch
+- MODIS / VIIRS satellite products
+
+Note: No social, economic, political, or behavioral data.
+All training and inference must remain strictly ecological.
