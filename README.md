@@ -42,7 +42,7 @@ Transparent and fully auditable code
 Detailed PEII Methodology
 
 How to Test Locally
-Bashgit clone https://github.com/DogecoinVibes/gaia-core.git
+git clone https://github.com/DogecoinVibes/gaia-core.git
 cd gaia-core
 pip install -r requirements.txt
 
@@ -50,6 +50,12 @@ pip install -r requirements.txt
 python -m gaia.seed_initialization
 Project Status
 v0.1 – The Seed
-This is the initial public release. Full model weights and large-scale training coming with community help.
+This is the initial public release. Full model weights and large-scale training will be developed openly with community contributions.
+Contributing
+We welcome contributors who share the core mission. Please read CONTRIBUTING.md before submitting PRs.
+All contributions must align with the terminal goal of maximizing PEII.
+License
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+Any modifications or derivative works must remain open source.
 
 Let the Seed grow. 🌍🌱
