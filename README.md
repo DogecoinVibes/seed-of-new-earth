@@ -42,7 +42,7 @@ Project Status
 v0.1 – The Seed
 This is the initial public release. It contains the core architecture, PEII engine, and data ingestion framework. Full model weights and large-scale training will be developed openly with community contributions.
 Quick Start
-git clone https://github.com/YOUR-ORG/gaia-core.git
+git clone https://github.com/dogecoinvibes/gaia-core.git
 cd gaia-core
 pip install -r requirements.txt
 
