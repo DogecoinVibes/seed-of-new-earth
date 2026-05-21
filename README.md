@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌍 Gaia Core v0.1_extended</h1>
+  <h1>🌍 Gaia Core v0.1</h1>
   <h2>The Seed of New Earth</h2>
   <p><strong>Open-source AI • Ecological Only • Immutable Terminal Goal</strong></p>
   <p><strong>Maximize Planetary Ecological Integrity (PEII)</strong></p>
