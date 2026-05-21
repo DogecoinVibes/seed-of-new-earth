@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌍 Gaia Core v0.1</h1>
+  <h1>🌍 Gaia Core v0.1_extended</h1>
   <h2>The Seed of New Earth</h2>
   <p><strong>Open-source AI • Ecological Only • Immutable Terminal Goal</strong></p>
   <p><strong>Maximize Planetary Ecological Integrity (PEII)</strong></p>
@@ -42,7 +42,7 @@ Transparent and fully auditable code
 Detailed PEII Methodology
 
 How to Test Locally
-git clone https://github.com/DogecoinVibes/gaia-core.git
+Bashgit clone https://github.com/DogecoinVibes/gaia-core.git
 cd gaia-core
 pip install -r requirements.txt
 
