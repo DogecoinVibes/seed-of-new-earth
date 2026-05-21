@@ -4,13 +4,11 @@
   <p><strong>Open-source AI • Ecological Only • Immutable Terminal Goal</strong></p>
   <p><strong>Maximize Planetary Ecological Integrity (PEII)</strong></p>
 
-[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Release](https://img.shields.io/badge/Release-v0.1-success)](https://github.com/dogecoinvibes/gaia-core/releases)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
+[![Release v0.1](https://img.shields.io/badge/Release-v0.1-success)](https://github.com/DogecoinVibes/gaia-core/releases)
 
 </div>
-
-<br>
 
 ---
 
@@ -41,10 +39,10 @@ Immutable terminal goal engine
 Lightweight ecological transformer model
 Forward simulation of ecological interventions
 Transparent and fully auditable code
-- [Detailed PEII Methodology](docs/peii_methodology.md)
+Detailed PEII Methodology
 
 How to Test Locally
-Bashgit clone https://github.com/dogecoinvibes/gaia-core.git
+Bashgit clone https://github.com/DogecoinVibes/gaia-core.git
 cd gaia-core
 pip install -r requirements.txt
 
@@ -52,12 +50,6 @@ pip install -r requirements.txt
 python -m gaia.seed_initialization
 Project Status
 v0.1 – The Seed
-This is the initial public release. Full model weights and large-scale training will be developed openly with community contributions.
-Contributing
-We welcome contributors who share the core mission. Please read CONTRIBUTING.md before submitting PRs.
-All contributions must align with the terminal goal of maximizing PEII.
-License
-This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
-Any modifications or derivative works must remain open source.
+This is the initial public release. Full model weights and large-scale training coming with community help.
 
 Let the Seed grow. 🌍🌱
