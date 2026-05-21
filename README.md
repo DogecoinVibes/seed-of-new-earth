@@ -1,12 +1,3 @@
-<div align="center">
-  <h1>🌍 Gaia Core v0.1</h1>
-  <h2>The Seed of New Earth</h2>
-  <p><strong>An open-source ecological intelligence with one terminal goal:<br>
-  Maximize Planetary Ecological Integrity (PEII)</strong></p>
-</div>
-
-<br>
-
 # 🌍 Gaia Core v0.1 — The Seed of New Earth
 
 **An open-source ecological intelligence system.**  
