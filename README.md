@@ -1,15 +1,16 @@
 <div align="center">
   <h1>🌍 Gaia Core v0.1</h1>
   <h2>The Seed of New Earth</h2>
-  <p><strong>An open-source ecological intelligence system with one immutable terminal goal:</strong></p>
+  <p><strong>Open-source AI • Ecological Only • Immutable Terminal Goal</strong></p>
   <p><strong>Maximize Planetary Ecological Integrity (PEII)</strong></p>
 
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
-[![Release v0.1](https://img.shields.io/badge/Release-v0.1-success)](https://github.com/dogecoinvibes/gaia-core/releases)
-[![Eco Data Only](https://img.shields.io/badge/Data-Ecological_Only-0B3D2B)](https://github.com/dogecoinvibes/gaia-core)
+[![License](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Release](https://img.shields.io/badge/Release-v0.1-success)](https://github.com/dogecoinvibes/gaia-core/releases)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org)
 
 </div>
+
+<br>
 
 ---
 
