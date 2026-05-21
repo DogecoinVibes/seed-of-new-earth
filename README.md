@@ -84,4 +84,17 @@ All contributions must align with the terminal goal of maximizing PEII.
 License
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 Any modifications or derivative works must remain open source.
+### How to Test Locally
+
+```bash
+# 1. Clone the Seed
+git clone https://github.com/dogecoinvibes/gaia-core.git
+cd gaia-core
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the initialization
+python -m gaia.seed_initialization
+
 Let the Seed grow.
