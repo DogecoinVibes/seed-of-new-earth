@@ -1,24 +1,31 @@
-# Planetary Ecological Integrity Index (PEII) — Methodology
+# Planetary Ecological Integrity Index (PEII) — Methodology v0.1
 
-## Purpose
-PEII is the single north star metric for Gaia Core. All actions are judged by their effect on long-term PEII.
+## Why PEII Exists
 
-## Core Components (v0.1)
+PEII is the **single terminal metric** that Gaia Core optimizes for. Everything else is subordinate.
 
-| Component                | Weight | Description |
-|-------------------------|--------|-----------|
-| Biodiversity Health     | 0.35   | Species richness, Shannon index, habitat connectivity |
-| Climate Stability       | 0.25   | Temperature anomaly, carbon cycle balance |
-| Ocean & Freshwater      | 0.20   | pH, coral cover, nutrient load |
-| Soil Vitality           | 0.15   | Organic carbon, microbial activity |
-| Atmospheric Balance     | 0.05   | GHG concentrations, aerosol load |
+## Core Formula (v0.1)
 
-## Philosophy
-- **Long-term** (decades to centuries) focus
-- **Resilience** over raw productivity
-- **Tipping point penalties** strongly applied
-- Human benefit only accepted if it does not reduce long-term PEII
+```python
+PEII = (0.35 × Biodiversity) 
+     + (0.25 × Climate_Stability) 
+     + (0.20 × Ocean_Freshwater_Health) 
+     + (0.15 × Soil_Vitality) 
+     + (0.05 × Atmospheric_Balance)
+     - Tipping_Point_Penalties
 
----
+Component Breakdown
 
-**This is the guiding metric of The Seed.**
+Component,Weight,What It Measures,Ideal Direction
+Biodiversity Health,0.35,"Species richness, evenness, habitat health",↑
+Climate Stability,0.25,"Temperature, CO₂, CH₄, feedback loops",↑
+Ocean & Freshwater,0.20,"pH, oxygen, coral/seagrass cover, pollution",↑
+Soil Vitality,0.15,"Organic carbon, microbial activity, erosion",↑
+Atmospheric Balance,0.05,"Aerosol loading, ozone, trace gases",↑
+
+Core Rules
+
+Long-term (50–500 years) perspective
+Strong penalties for approaching tipping points
+Human benefit is allowed only if it does not decrease long-term PEII
+No trade-offs that sacrifice ecological integrity for short-term gains
